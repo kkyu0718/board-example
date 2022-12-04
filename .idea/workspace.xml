@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04607a43-9a88-4d97-98bc-fbdd7015c260" name="Changes" comment="" />
+    <list default="true" id="8f81a213-38e5-4aaf-b920-e298bec8acf7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/board-example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/java/com/fastcampus/projectboard/FastCampusProjectBoardApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/test/java/com/fastcampus/projectboard/FastCampusProjectBoardApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2IRSK9YRlWHMKtlR0R5t1wLEp5e" />
+  <component name="ProjectId" id="2IRVfYdrdnipCcuztL4QafD2TYO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,19 +37,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kimkw/Desktop/project/fastcampus-board/board-example"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04607a43-9a88-4d97-98bc-fbdd7015c260" name="Changes" comment="" />
-      <created>1670142835985</created>
+      <changelist id="8f81a213-38e5-4aaf-b920-e298bec8acf7" name="Changes" comment="" />
+      <created>1670144487088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670142835985</updated>
-      <workItem from="1670142839844" duration="184000" />
+      <updated>1670144487088</updated>
+      <workItem from="1670144488336" duration="108000" />
     </task>
     <servers />
   </component>
